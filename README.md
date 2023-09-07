@@ -1,6 +1,5 @@
-# DDM ver3 ![badge](https://img.shields.io/badge/license-MIT-blue) 
+# SAFE twin ![badge](https://img.shields.io/badge/license-MIT-blue) 
 
-DDM ver3
 
 ![Video Label](https://raw.githubusercontent.com/Changooo/project_SAFETwin/main/thumbnail.png)
 
