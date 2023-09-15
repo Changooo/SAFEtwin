@@ -26,13 +26,13 @@
 
 ### Back-end
 
-- [`laravel`](https://laravel.com/)
-- [`mariadb`](https://mariadb.org/)
+- [`flask`](https://laravel.com/)
+- [`pytorch`](https://mariadb.org/)
 
 ### Front-end
 
-- [`react.js`](https://ko.reactjs.org/) (front-end library)
-- [`ant design`](https://ant.design/) (react UI library)
+- [`unity`](https://ko.reactjs.org/) (front-end library)
+- [`omniverse`](https://ant.design/) (react UI library)
   <br/><br/>
 
 ## 저작권 및 사용권 정보 (Copyleft / End User License)
